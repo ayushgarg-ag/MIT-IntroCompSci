@@ -1,5 +1,3 @@
-# -2 - 4 - 3 -6
-
 # # Question 1
 # 1.1   False
 # 1.2   True
